@@ -6,4 +6,4 @@ const secondSmallestNumber = (Numbers) => {
 }
 
 const result = secondSmallestNumber([10, 15, 6, 4, 1, 20]);
-console.log(result);
+console.log(result); 
